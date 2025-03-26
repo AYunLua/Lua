@@ -1,4 +1,4 @@
 return {
-  ["Roblox"] = true,
+  ["lakakanakamam"] = true,
   ["lol666"] = true,
 }
